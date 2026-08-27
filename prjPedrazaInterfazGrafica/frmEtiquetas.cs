@@ -34,5 +34,10 @@ namespace prjPedrazaInterfazGrafica
         {
 
         }
+
+        private void frmEtiquetas_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
