@@ -134,7 +134,7 @@
             Controls.Add(lblEdad);
             Controls.Add(lblNombre);
             Name = "frmCajaDeTexto";
-            Text = "frmCajaDeTexto";
+            Text = "Mi Presentación";
             ResumeLayout(false);
             PerformLayout();
         }
